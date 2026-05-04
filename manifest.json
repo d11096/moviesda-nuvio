@@ -3,13 +3,22 @@
   "name": "Moviesda Tamil",
   "version": "1.0.0",
   "description": "Tamil movies scraper from Moviesda19",
+  "author": "your name",
   "scrapers": [
     {
       "id": "moviesda",
       "name": "Moviesda",
+      "version": "1.0.0",
+      "description": "Tamil movies from Moviesda19",
+      "author": "your name",
       "filename": "providers/moviesda.js",
       "supportedTypes": ["movie"],
-      "enabled": true
+      "enabled": true,
+      "contentLanguage": ["ta"],
+      "formats": ["mp4"],
+      "logo": "",
+      "limited": false,
+      "supportsExternalPlayer": true
     }
   ]
 }
