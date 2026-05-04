@@ -19,6 +19,21 @@
       "logo": "",
       "limited": false,
       "supportsExternalPlayer": true
+    },
+    {
+      "id": "new moviesda",
+      "name": "new Moviesda",
+      "version": "1.0.0",
+      "description": "Tamil movies from Moviesda19",
+      "author": "dummy",
+      "filename": "providers/moviesdawithoutaynsc.js",
+      "supportedTypes": ["movie"],
+      "enabled": true,
+      "contentLanguage": ["ta"],
+      "formats": ["mp4"],
+      "logo": "",
+      "limited": false,
+      "supportsExternalPlayer": true
     }
   ]
 }
