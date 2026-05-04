@@ -1,16 +1,16 @@
 {
   "id": "moviesda-tamil",
   "name": "Moviesda Tamil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tamil movies scraper from Moviesda19",
-  "author": "your name",
+  "author": "dummy",
   "scrapers": [
     {
       "id": "moviesda",
       "name": "Moviesda",
       "version": "1.0.0",
       "description": "Tamil movies from Moviesda19",
-      "author": "your name",
+      "author": "dummy",
       "filename": "providers/moviesda.js",
       "supportedTypes": ["movie"],
       "enabled": true,
